@@ -7,8 +7,11 @@
 <!-- Title -->
 <h1 align="center"><b>CS114.O21 - MÁY HỌC</b></h1>
 
-## A little bit about myself
-Hello there, I'm Nguyen Thanh Hung. I'm currently studying Computer Science at University of Information Technology and myself is a sophomore. My student ID is 22520518. I'm interested in playing sport, especially football, and being a huge fan of Manchester United. I'm curious about Chinese history and culture, and also keen on learning Chinese, but still a rookie in this languages. 
+## About me
+* *Full Name*: Nguyen Thanh Hung
+* *Faculty*: Computer Science at University of Information Technology
+* *Student ID*: 22520518
+* *Class*: KHMT2022.2
 
 ## TABLE OF CONTENTS
 * [ Introduction](#Introduction)
